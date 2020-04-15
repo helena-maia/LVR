@@ -29,7 +29,7 @@ python3 preprocessing.py -src_dir <architecture>_<dataset>_VR<i> -new_width <wid
 * -wm: horizontal method: none (keep original width), sim_ext (symmetric extension), resize
 * -hm: vertical method: none, pool
 
-## 2.vr_stream: Classify the visual rhythms (second CNN)
+## 3.vr_stream: Classify the visual rhythms (second CNN)
 
 ### Training 
 
